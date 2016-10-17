@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UsingWatsonAPI</string>
+    <string name="serviceStatus_ON">ON</string>
+    <string name="serviceStatus_OFF">OFF</string>
+    <string name="serviceStatus">SERVICE IS OFF</string>
+</resources>
