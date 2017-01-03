@@ -5,4 +5,4 @@ I gave up on using IBM's APIs and just made this into an AFK replying applicatio
 The application lets you message starred contacts when they call you and then directs them to your voicemail.
 Useful when you are busy or driving.
 Just power on this application and set the message, it should take care of your "starred" ones.
-For others, it just send them to the voice mail directly without sending out SMS messages.
+For others, it just sends them to the voice mail directly without sending out SMS messages.
